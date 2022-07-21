@@ -1,4 +1,4 @@
-# Convert Speech To Text In Arabic Using Native File System API & Web Speech API .
+# Convert  Arabic Speech To Text  Using Native File System API & Web Speech API  .
 For building this application you need two Technologies the first technology is the native file system API and the second one is web speech API .The native file system API is a very newly supported API which is introduced by various browsers at this moment of time this API is not fully supported on all browsers.
 
 ## What is Native File System API
@@ -9,7 +9,11 @@ The File System Access API (formerly known as Native File System API and prior t
 - ####  Uplaod a .txt file and add extra text by speech or type and save the changes .
 - #### Save e what you have recoured to your local system as .txt fil.
 
-#### So by using Native File System API you can write, read from files and save files using JavaScript which is not possible before as you know that JavaScript is a client-side scripting language
+<img width="800" alt="Screen Shot 1443-12-22 at 6 10 15 AM" src="https://user-images.githubusercontent.com/74800962/180121776-1727c477-f452-4f41-acac-4afec9a5baca.png">
+
+
+#### So by using Native File System API you can write, read from files and save files using JavaScript which is not possible before as you know that JavaScript is a client-side scripting language.
+
 ## Pre reqirments
 - ###  Install Chrome with 86 or less version (mine is 83),to check you version visit the following link and the language must be Arabic.
   ```
@@ -21,4 +25,14 @@ The File System Access API (formerly known as Native File System API and prior t
   ```
   <img width="650" alt="Screen Shot 1443-12-22 at 2 20 55 AM" src="https://user-images.githubusercontent.com/74800962/180099330-cc2ccab3-3c9e-4a79-85dd-aa802c2fc4a5.png">
 
-<img width="473" alt="Screen Shot 1443-12-22 at 2 29 06 AM" src="https://user-images.githubusercontent.com/74800962/180099670-a2a7466b-2a03-44f9-ab9b-78c8c77fd3c1.png">
+  <img width="473" alt="Screen Shot 1443-12-22 at 2 29 06 AM" src="https://user-images.githubusercontent.com/74800962/180099670-a2a7466b-2a03-44f9-ab9b-78c8c77fd3c1.png">
+
+## OutPut Samples:
+
+### CASE1
+https://user-images.githubusercontent.com/74800962/180122880-d504786d-7aa7-4bfd-88cb-f67105d599da.mov
+
+### CASE2
+https://user-images.githubusercontent.com/74800962/180122455-e89af259-4294-44ae-a0cd-ebded6c44a71.mov
+
+
