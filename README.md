@@ -9,13 +9,14 @@ The File System Access API (formerly known as Native File System API and prior t
 - ####  Uplaod a .txt file and add extra text by speech or type and save the changes .
 - #### Save e what you have recoured to your local system as .txt fil.
 
-<img width="800" alt="Screen Shot 1443-12-22 at 6 10 15 AM" src="https://user-images.githubusercontent.com/74800962/180121776-1727c477-f452-4f41-acac-4afec9a5baca.png">
+<img width="1440" alt="Screen Shot 1443-12-22 at 7 33 27 AM" src="https://user-images.githubusercontent.com/74800962/180130509-c834f983-f34b-4da2-929d-7d712fe67b0f.png">
+
 
 
 #### So by using Native File System API you can write, read from files and save files using JavaScript which is not possible before as you know that JavaScript is a client-side scripting language.
 
 ## Pre reqirments
-- ###  Install Chrome with 86 or less version (mine is 83),to check you version visit the following link and the language must be Arabic.
+- ###  Install Chrome with 83 or less version,to check you version visit the following link and the language must be Arabic.
   ```
   chrome://version
   ```
@@ -35,4 +36,7 @@ https://user-images.githubusercontent.com/74800962/180122880-d504786d-7aa7-4bfd-
 ### CASE2
 https://user-images.githubusercontent.com/74800962/180122455-e89af259-4294-44ae-a0cd-ebded6c44a71.mov
 
+### You Can [Try It](https://wesamhamad.github.io/Convert-Arabic-Speech-To-Text-Using-Native-File-System-API-Web-Speech-API/), he website is fully responsive to the diffrence devices.
 
+``NOTE: If your chrome version not 83 or less then the load and save will not work.
+``
