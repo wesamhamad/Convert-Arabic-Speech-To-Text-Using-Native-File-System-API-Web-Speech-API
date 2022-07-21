@@ -4,6 +4,12 @@ For building this application you need two Technologies the first technology is 
 ## What is Native File System API
 The File System Access API (formerly known as Native File System API and prior to that it was called Writeable Files API) enables developers to build powerful web apps that interact with files on the user's local device, such as IDEs, photo and video editors, text editors, and more. After a user grants a web app access, this API allows them to read or save changes directly to files and folders on the user's device. Beyond reading and writing files, the File System Access API provides the ability to open a directory and enumerate its contents.
 
+## Wh y I used Native File System API? 
+#### To add a helpful additions features to speech to text system  which are :
+- ####  Uplaod a .txt file and add extra text by speech or type and save the changes .
+- #### Save e what you have recoured to your local system as .txt fil.
+
+#### So by using Native File System API you can write, read from files and save files using JavaScript which is not possible before as you know that JavaScript is a client-side scripting language
 ## Pre reqirments
 - ###  Install Chrome with 86 or less version (mine is 83),to check you version visit the following link and the language must be Arabic.
   ```
